@@ -825,8 +825,7 @@ def render_hero() -> None:
             <div class="eyebrow">Public Opinion Insight Dashboard</div>
             <div class="hero-title">米哈游社媒舆情<br/>AI 分析台</div>
             <div class="hero-subtitle">
-                面向游戏社区与市场内容场景，自动聚合近期玩家讨论，识别情绪变化、集中痛点与潜在传播风险，
-                帮助面试官快速看到候选人在数据采集、内容理解、分析总结和产品化呈现上的完整能力。
+                面向游戏社区与市场内容场景，自动聚合近期玩家讨论，识别情绪变化、集中痛点与潜在传播风险。
             </div>
             <div class="badge-row">
                 <span class="soft-badge">优先最近15天动态</span>
